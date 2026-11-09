@@ -1,6 +1,6 @@
 # Padala
 
-[![CI](https://github.com/mukraminbariwa5-create/Padala/actions/workflows/ci.yml/badge.svg)](https://github.com/mukraminbariwa5-create/Padala/actions/workflows/ci.yml)
+[![CI](https://github.com/mukraminansao/Padala/actions/workflows/ci.yml/badge.svg)](https://github.com/mukraminansao/Padala/actions/workflows/ci.yml)
 ![Node 22+](https://img.shields.io/badge/node-22%2B-3c873a)
 ![No dependencies](https://img.shields.io/badge/dependencies-0-15803d)
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue)
